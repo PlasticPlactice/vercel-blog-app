@@ -1,7 +1,7 @@
 import Social from "./social";
 
 /**
- * コンタクトのコンポーネント
+ * コンタクトのコンポーネン
  * @returns {JSX}
  */
 const Contact = () => {
